@@ -6,7 +6,7 @@ Using pygame module , to create Paint in Python
 
 Here is the documentation for the afforementioned https://www.pygame.org/docs/
 
-##Reference for the module
+## Reference for the module
 
 Blog that did a great job of explaining the basics of module https://www.upgrad.com/blog/pygame-tutorial-for-beginners/
 
